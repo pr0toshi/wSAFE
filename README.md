@@ -1,5 +1,5 @@
 # wSAFE
-Putting the less back in permissionless.
+### Putting the less back in permissionless.
 
 Gnosis Safe recently launched the SAFE token, allowing users to claim tokens to Gnosis safe multisignature contract wallets, although these tokens are non-transferable until the DAO decides to allow transfers, as all tokens are unable to be sent from these contract wallets once claimed. The tokens are so locked until such a proposals executed, but this is Crypto, and we dont like being told what we can or can't do with our money, and so, we welcome you to wSAFE.
 
